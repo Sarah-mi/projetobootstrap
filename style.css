@@ -1,0 +1,72 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.frase__inicial {
+    font-family: 'Lobster Two', cursive;
+    font-size: 4rem;
+    color: #855C79;
+}
+
+.card-body {
+    font-family: 'Manjari', sans-serif;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+
+.imagem__inicial img {
+    width: 350px;
+    margin-right: 100px;
+}
+
+.card-img-top {
+    width: 150px;
+    align-items: center;
+}
+
+.sombra {
+    box-shadow: 3px 2px 2px grey;
+}
+
+.linha {
+    color: white;
+    border-top: 3px solid;
+}
+
+.imagem__final {
+    width: 50%;
+}
+
+.imagem__final img {
+    width: 300px;
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.section__principal {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+}
+
+.frase__final {
+    width: 50%;
+    margin-right: 10%;
+    font-family: 'Lobster Two', cursive;
+    font-size: 1.2rem;
+    color: #855C79;
+}
+
+.imagem__rodape img {
+    width: 200px;
+}
